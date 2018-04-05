@@ -1,15 +1,9 @@
----
-title: "Location of Blood Banks"
-author: "Atmajit"
-date: "April 5, 2018"
-output: html_document
----
 
 ## Motivation
 The main motivation behind this simple shiny app is to make it easier to locate blood banks in India along with pincodes, addresses, contact person name and number.
 
 ## Data:
-Data for the blood bank application is sourced from Open Government Data Platform. The original data is available as a csv file called "Blood Bank Directory (updated Till Last Month)". The raw data file, processed data file and my shiny code is made available on my github.
+Data for the blood bank application is sourced from [Open Government Data Platform](https://data.gov.in/). The original data is available as a csv file called "Blood Bank Directory (updated Till Last Month)". The raw data file, processed data file and my shiny code is made available on my github.
 
 I have tried my best to comment and explain where necessary.
 
